@@ -18,6 +18,10 @@
 - File I/O
 - Material Design
 
+## JSON 格式要求
+
+导入的 JSON 文件需要符合以下格式：
+
 ## 运行方式
 
 1. 确保已安装 Flutter 环境
